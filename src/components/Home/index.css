@@ -1,0 +1,20 @@
+.home-container {
+  background-color: white;
+  min-height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.popular-list {
+  margin-top: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 20px;
+  margin: 5px;
+}
+.header-container {
+  height: 20vh;
+}
